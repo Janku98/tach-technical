@@ -1,0 +1,24 @@
+.todo-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dashboard{
+    width: 50%;
+    background-color: var(--second);
+    min-height: 150px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 50px 10px 50px;
+}
+
+.no-data-alert{
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+}

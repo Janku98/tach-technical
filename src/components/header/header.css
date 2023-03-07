@@ -1,0 +1,12 @@
+.header-container{
+    min-height: 57px;
+    background-color: var(--primary);
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    font-weight: 600;
+    color: var(--third);
+    margin-bottom: 32px;
+}

@@ -1,0 +1,15 @@
+.modal-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-body{
+    background-color: var(--background);
+    font-family: 'poppins';
+    font-size: larger;
+    padding: 20px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+}
